@@ -1,7 +1,7 @@
-### ⭐ Opa, Rhuan Faria aqui!
+## ⭐ Opa, Rhuan Faria aqui!
 
-## 🪔 Hoje, faço parte de um projeto para imlplementação de chatBot
-# 💬 Atualmente estudando: NodeJS, NestJS, Typescript, PostgreSQL
+### 🪔 Hoje, faço parte de um projeto para imlplementação de chatBot
+### 💬 Atualmente estudando: NodeJS, NestJS, Typescript, PostgreSQL
 
 ### skills:
 ![Static Badge](https://img.shields.io/badge/Python-yellow)
