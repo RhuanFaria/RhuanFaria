@@ -20,5 +20,5 @@
 [![Blog]( 	https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]
 [![Blog]( 	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 
-[![Blog]( 	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]
+[![Blog]( 	https://github-readme-stats.vercel.app/api/top-langs/?username={RhuanFaria}&theme=blue-green)]
 
