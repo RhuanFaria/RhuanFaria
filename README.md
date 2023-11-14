@@ -3,8 +3,13 @@
 - 🪔 Hoje, faço parte de um projeto de imlplementação de chatBot
 - 💬 Atualmente utilizando: NodeJS, NestJS, Typescript, PostgreSQL
 ### skills:
-![Static Badge](https://img.shields.io/badge/PYTHON-yellow)
+![Static Badge](https://img.shields.io/badge/Python-yellow)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/NodeJS-green)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue)
+![Static Badge](https://img.shields.io/badge/NestJS-pink)
+![Static Badge](https://img.shields.io/badge/Prisma-black)
+
 
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
 ![Static Badge](https://img.shields.io/badge/CSS3-lightblue)
