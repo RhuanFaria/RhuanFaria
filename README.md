@@ -4,6 +4,12 @@
 - 💬 Atualmente utilizando: NodeJS, NestJS, Typescript, PostgreSQL
 ### skills:
 ![Static Badge](https://img.shields.io/badge/PYTHON-yellow)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-blue)
+
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+![Static Badge](https://img.shields.io/badge/CSS3-lightblue)
+
+
 
 
 ### Other Knowledge:
