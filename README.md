@@ -10,6 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue)
 ![Static Badge](https://img.shields.io/badge/NestJS-pink)
 ![Static Badge](https://img.shields.io/badge/Prisma-white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-purple)
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
 ![Static Badge](https://img.shields.io/badge/CSS3-lightblue)
 
