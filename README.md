@@ -13,4 +13,3 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-purple)
 ![Static Badge](https://img.shields.io/badge/HTML5-orange)
 ![Static Badge](https://img.shields.io/badge/CSS3-lightblue)
-![8cd3f1898255c045143e1da97fbabf10_w20](https://github.com/RhuanFaria/RhuanFaria/assets/132458498/35160152-f275-412f-be27-7a9cfbd39435)
